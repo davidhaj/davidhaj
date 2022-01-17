@@ -20,6 +20,16 @@ Kapitel 8: Schere Stein Papier
 Kapitel 9: Zitterpartie
 
 Kapitel 10: Nomen est Omen
+Nomen est omen ist eine lateinische Redensart und bedeutet „der Name ist ein Zeichen“. 
+Sie wird meist gebraucht, um auszudrücken, dass der Name eine Person oder Sache 
+treffend kennzeichnet, oft auch übertreibend oder ironisch gebrochen. 
+Zum besseren Verständnis kann man es frei mit 
+„Der Name ist Programm“ übersetzen.
+
+Der Ausspruch soll ausdrücken, dass man anhand des Namens einer Person oder einer 
+Sache auf deren Eigenschaften schließen kann. 
+Mit einem Namen werden also bestimmte Attribute und Charaktereigenschaften in 
+Verbindung gebracht.
 
 Kapitel 11: Über die Konsole spricht man nicht
 
