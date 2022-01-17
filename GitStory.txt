@@ -4,6 +4,9 @@ Es darf nur Text unter dem eigenen Kapitel hinzugefügt werden.
 Kapitel 1: Es war einmal
 
 Kapitel 2: Zwischen den Zeilen
+darf man schreiben, 
+doch die anderen Zeilen DARF MAN NICHT verändern !
+Es darf nur Text unter dem eigenen Kapitel hinzugefügt werden.
 
 Kapitel 3: Wer war dabei
 
