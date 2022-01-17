@@ -28,6 +28,7 @@ doch die anderen Zeilen DARF MAN NICHT verändern !
 Es darf nur Text unter dem eigenen Kapitel hinzugefügt werden.
 
 Kapitel 3: Wer war dabei
+Eine mysteriöse Person. Niemand kannte seinen Namen.
 
 Kapitel 4: Und dabei waren
 
@@ -56,14 +57,23 @@ Mit einem Namen werden also bestimmte Attribute und Charaktereigenschaften in
 Verbindung gebracht.
 
 Kapitel 11: Über die Konsole spricht man nicht
+denn die Konsole ist es, dass das Herz eines Mannes begehrt
+SPRICH NICHT ÜBER DIE KONSOLE
 
 Kapitel 12: Auf der Pinwand
 
 Kapitel 13: Staatliche Kontrolle
 
 Kapitel 14: DNA und mehr
+sind alle Informationen, wie unser Geschlecht, unsere Haar- oder Augenfarbe gespeichert
 
 Kapitel 15: Autosuche
+Der Zwerg Nikolaus ist schon seit geräumiger Zeit auf der Suche nach einem Auto. Das Problem ist leider,
+dass die Autosuche aufgrund seiner Größe sehr schwierig ist und sich die Suche daher in die Länge zieht. 
+Nikolaus kann sich vorstellen einen Smart oder einen Mini Cooper zu fahren, seine Wunschafarbe ist grün.
+Der Mini Cooper mit drei Türen kostet 21.950 Euro und der Smart fährt elektrisch und hat einen Preis 
+von 26.400 Euro.
+Letztendlich entscheidet er sich für den Mini Cooper und fährt glücklich Richtung Sonnenuntergang.
 
 Kapitel 16: Programmieren zahlt sich aus
 
