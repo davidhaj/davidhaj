@@ -3,7 +3,29 @@ Es darf nur Text unter dem eigenen Kapitel hinzugefügt werden.
 
 Kapitel 1: Es war einmal
 
+Es war einmal ein Zwerg,
+der saß auf einen Berg.
+
+Er sah auf die Leute hinab
+und spuckte dabei bergab.
+
+Die Leute sahen hinauf
+mit ganz vielen Graus
+und  erkannten das Gewand des Nikolaus.
+
+Sie fragten laut "Warum?"
+und der Zwerg rief mit Verlaub: "Darum!"
+
+Der Zwerg kicherte stumm,
+denn er hielt die Leute für dumm.
+
+Sie glauben es war der Nikolaus,
+dabei war es nur eine freche Laus.
+
 Kapitel 2: Zwischen den Zeilen
+darf man schreiben, 
+doch die anderen Zeilen DARF MAN NICHT verändern !
+Es darf nur Text unter dem eigenen Kapitel hinzugefügt werden.
 
 Kapitel 3: Wer war dabei
 
@@ -16,6 +38,8 @@ Kapitel 6: Große Erwartungen
 Kapitel 7: Enttäuschte Hoffnung
 
 Kapitel 8: Schere Stein Papier
+
+LIGMA
 
 Kapitel 9: Zitterpartie
 
@@ -42,6 +66,9 @@ Kapitel 14: DNA und mehr
 Kapitel 15: Autosuche
 
 Kapitel 16: Programmieren zahlt sich aus
+
+Es kann besonders praktisch sein, wenn man berechnende Algorithmen erstellen will. Es macht mir
+Sehr viel Spaß
 
 Kapitel 17: Rollmeter rollen nicht
 
